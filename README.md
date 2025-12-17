@@ -51,7 +51,8 @@ The following Python libraries are used:
 
 * **DataAnalysis1.ipynb** → Main Jupyter Notebook
 * **README.md** → Project explanation
-
+* **raw_dataset.csv** → Practice dataset used for this project. It is a very simple and beginner-friendly dataset, easy to understand and perfect for learning data analysis basics.
+  
 ---
 
 ## 📌 What is done in the Notebook?
